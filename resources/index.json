@@ -337,7 +337,7 @@
 					"link" : "resources/APROM/SecureROM for t8027si, iBoot-4172.0.0.100.14",
 					"name" : "SecureROM for t8027si",
 					"date" : "20.8.23",
-					"picture" : "resources/Apple_A12X.png",
+					"picture" : "resources/Apple_A12X.jpg",
 					"version" : "iBoot-4172.0.0.100.14",
 					"from" : "J273aAP",
 					"desc" : "Bootrom for iPad Pro 2018, iPad Pro 2020, DTK (Apple Silicon)"
@@ -512,7 +512,7 @@
  					"link" : "resources/SEPROM/AppleSEPROM-A12X-A0",
 					"name" : "Aruba A0 SEPROM",
 					"date" : "20.8.23",
-					"picture" : "resources/Apple_A12X.png",
+					"picture" : "resources/Apple_A12X.jpg",
 					"version" : "private_build...(root@rebels.apple.com)...2017/09/13...21:46:04",
 					"from" : "J318AP EVT",
 					"desc" : "SEPROM from A12X/Z revision of A0 (latest one is A1)"
