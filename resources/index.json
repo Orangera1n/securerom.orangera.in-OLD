@@ -334,6 +334,15 @@
 					"desc" : "Bootrom for Apple Watch Series 4/5"
 				},
 				{
+					"link" : "resources/APROM/SecureROM for t8027si, iBoot-4172.0.0.100.14",
+					"name" : "SecureROM for t8027si",
+					"date" : "20.8.23",
+					"picture" : "resources/Apple_A12X.png",
+					"version" : "iBoot-4172.0.0.100.14",
+					"from" : "J273aAP",
+					"desc" : "Bootrom for iPad Pro 2018, iPad Pro 2020, DTK (Apple Silicon)"
+				},
+				{
 					"link" : "resources/APROM/SecureROM for t8030si, iBoot-4479.0.0.100.4",
 					"name" : "SecureROM for t8030si",
 					"date" : "25.11.19",
@@ -498,6 +507,15 @@
 					"version" : "private_build...(root@pilaf.apple.com)...2017/04/26...13:42:13...",
 					"from" : "D331pAP",
 					"desc" : "SEPROM from A12"
+ 				},
+	 			{
+ 					"link" : "resources/SEPROM/AppleSEPROM-A12X-A0",
+					"name" : "Aruba A0 SEPROM",
+					"date" : "20.8.23",
+					"picture" : "resources/Apple_A12X.png",
+					"version" : "private_build...(root@rebels.apple.com)...2017/09/13...21:46:04",
+					"from" : "J318AP EVT",
+					"desc" : "SEPROM from A12X/Z revision of A0 (latest one is A1)"
  				},
  				{
  					"link" : "resources/SEPROM/AppleSEPROM-S4-S5-B1",
