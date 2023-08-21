@@ -528,30 +528,30 @@
 				},
 				{
 					"link" : "resources/SEPROM/AppleSEPROM-M1-B1",
-					"name" : "M1 B1 SEPROM",
+					"name" : "Tonga B1 SEPROM",
 					"date" : "16.6.23",
 					"picture" : "resources/Apple_M1.jpg",
 					"version" : "AppleSEPROM-520.0.102.200.16",
 					"from" : "iPad Pro (5th generation)",
-					"desc" : "SEPROM from M1 of revision B1"
+					"desc" : "SEPROM from Tonga of revision B1"
 				},
 				{
 					"link" : "resources/SEPROM/AppleSEPROM-520.400.46.200.4",
-					"name" : "A15 A0 SEPROM",
+					"name" : "Staten A0 SEPROM",
 					"date" : "16.6.23",
 					"picture" : "resources/Apple_A15.jpg",
 					"version" : "AppleSEPROM-520.400.46.200.4",
 					"from" : "D17AP",
-					"desc" : "SEPROM for A15 of revision A0"
+					"desc" : "Ellis for A15 of revision A0"
 				},
 				{
 					"link" : "resources/SEPROM/AppleSEPROM-M2-B1",
-					"name" : "M2 B1 SEPROM",
+					"name" : "Staten B1 SEPROM",
 					"date" : "30.6.23",
 					"picture" : "resources/Apple_M2.jpg",
 					"version" : "AppleSEPROM-544.0.0.200.1",
 					"from" : "iPad Pro (6th generation)",
-					"desc" : "SEPROM for M2 of revision B1"
+					"desc" : "SEPROM for Staten of revision B1"
 				}
  			]
  		  }
