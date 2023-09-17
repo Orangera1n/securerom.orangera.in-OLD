@@ -560,7 +560,7 @@
 					"picture" : "resources/Apple_A15.jpg",
 					"version" : "AppleSEPROM-520.400.46.200.4",
 					"from" : "D17AP",
-					"desc" : "Ellis for A15 of revision A0"
+					"desc" : "SEPROM for Staten of revision A0"
 				},
 				{
 					"link" : "resources/SEPROM/AppleSEPROM-M2-B1",
