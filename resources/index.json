@@ -357,7 +357,7 @@
 					"date" : "2.6.21",
 					"picture" : "resources/Apple_A14.jpg",
 					"version" : "iBoot-5281.0.0.100.22",
-					"from" : "D53gAP pre-EVT",
+					"from" : "D53gAP PROTO2",
 					"desc" : "Bootrom for iPhone 12 [mini], 12 Pro [Max] and iPad Air 4"
 				},
 				{
@@ -510,16 +510,16 @@
  				},
 				{
  					"link" : "resources/SEPROM/AppleSEPROM-A12-D331pAP",
-					"name" : "Cyprus SEPROM",
+					"name" : "Cyprus A0 SEPROM",
 					"date" : "30.11.21",
 					"picture" : "resources/Apple_A12.jpg",
 					"version" : "private_build...(root@pilaf.apple.com)...2017/04/26...13:42:13...",
 					"from" : "D331pAP",
-					"desc" : "SEPROM from A12"
+					"desc" : "SEPROM from A12 revision of A0 (latest one is B1)"
  				},
 	 			{
  					"link" : "resources/SEPROM/AppleSEPROM-A12-B1",
-					"name" : "Cyprus SEPROM",
+					"name" : "Cyprus B1 SEPROM",
 					"date" : "06.12.23",
 					"picture" : "resources/Apple_A12.jpg",
 					"version" : "private_build...(root@pilaf.apple.com)...2018/03/15...16:24:52",
@@ -550,7 +550,7 @@
 					"date" : "2.6.21",
 					"picture" : "resources/Apple_A14.jpg",
 					"version" : "private_build...(root@squash.sd.apple.com)...2019/03/16...00:42:21...",
-					"from" : "D53gAP pre-EVT",
+					"from" : "D53gAP PROTO2",
 					"desc" : "SEPROM from A14 of revision A0 (first one)"
 				},
 				{
