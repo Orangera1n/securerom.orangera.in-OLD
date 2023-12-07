@@ -518,6 +518,15 @@
 					"desc" : "SEPROM from A12"
  				},
 	 			{
+ 					"link" : "resources/SEPROM/AppleSEPROM-A12-B1",
+					"name" : "Cyprus SEPROM",
+					"date" : "06.12.23",
+					"picture" : "resources/Apple_A12.jpg",
+					"version" : "private_build...(root@pilaf.apple.com)...2018/03/15...16:24:52",
+					"from" : "D331pAP",
+					"desc" : "SEPROM from A12 revision of B1"
+ 				},
+	 			{
  					"link" : "resources/SEPROM/AppleSEPROM-A12X-A0",
 					"name" : "Aruba A0 SEPROM",
 					"date" : "20.8.23",
