@@ -589,6 +589,15 @@
 					"from" : "iPad Pro (6th generation)",
 					"desc" : "SEPROM for Staten of revision B1"
 				}
+				{
+					"link" : "resources/SEPROM/AppleSEPROM-Crete-A0",
+					"name" : "Crete A0 SEPROM",
+					"date" : "23.1.24",
+					"picture" : "resources/Apple_A16.jpg",
+					"version" : "AppleSEPROM-605.0.0.200.9 ",
+					"from" : "iPhone 14 Pro PROTO2",
+					"desc" : "SEPROM for Crete of revision A0 (first one)"
+				}
  			]
  		  }
 }
