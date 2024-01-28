@@ -409,7 +409,7 @@
 					"link" : "resources/APROM/SecureROM for t8120si, iBoot-7195.0.0.200.29",
 					"name" : "SecureROM for t8120si",
 					"date" : "28.1.24",
-					"picture" : "resources/Apple_A16.jpg",
+					"picture" : "resources/Apple_M2.jpg",
 					"version" : "iBoot-7195.0.0.200.29",
 					"from" : "iPhone 14 Pro PROTO2",
 					"desc" : "Bootrom for iPhone 14 Pro (Max), and iPhone 15 (Plus)"
